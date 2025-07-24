@@ -1,1 +1,1 @@
-iivinn.github.io
+https://ivinn.dev
