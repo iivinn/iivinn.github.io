@@ -1,9 +1,27 @@
 body {
-    font-family: 'Helvetica', sans-serif;
+  font-family: 'Helvetica', sans-serif;
+  color: #000000;
+  padding: 5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #f0f0f0;
 }
 
 .container {
   display: flex;
   flex-direction: column;
   justify-content: left;
+  gap: 1rem;
+}
+
+.project-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  gap: 1rem;
+  border: 1px solid #000000;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  background-color: #ffffff;
 }
